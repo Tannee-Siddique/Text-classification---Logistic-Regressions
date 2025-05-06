@@ -1,1 +1,1 @@
-# Text-classification---Logistic-Regressions
+# Text-classification-Logistic-Regressions
